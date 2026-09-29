@@ -1,0 +1,14 @@
+# Virtual environment
+myenv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Environment secrets
+.env
+
+myenv/
+.env
+__pycache__/
+*.pyc
